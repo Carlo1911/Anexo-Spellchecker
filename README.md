@@ -1,1 +1,1 @@
-"Repositorio que contiene el archivo con las oraciones para las pruebas del corrector ortográfico" 
+"Repositorio que contiene el archivo con las oraciones para las pruebas del corrector ortográfico en formato xls y csv" 
